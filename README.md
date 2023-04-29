@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Michael
-- 👀 I’m interested in Test-driven development(TDD)
+- 👀 I’m interested in Test-driven development(TDD) and Design Patterns.
 - 🌱 I’m currently learning Javascript and Ruby on Rails
 
 <!---
